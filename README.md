@@ -1,5 +1,17 @@
 
-<img src="https://raw.githubusercontent.com/siddharth018/Laravel-8-CRUD-using-ajax/master/Laravel%20ajax%20crud.png" width="100%">
+<img src="https://raw.githubusercontent.com/siddharth018/laravel8multiauth/master/bloggersignup.png" width="100%">
+
+
+
+<img src="https://raw.githubusercontent.com/siddharth018/laravel8multiauth/master/bloggersignup.png" width="100%">
+
+
+
+<img src="https://raw.githubusercontent.com/siddharth018/laravel8multiauth/master/blogger%20login.png" width="100%">
+
+<img src="https://raw.githubusercontent.com/siddharth018/laravel8multiauth/master/admin%20signup.png" width="100%">
+
+
 
 # Laravel Multiple Authentication
 Laravel Multiple Authentication
