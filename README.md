@@ -1,5 +1,8 @@
 # Blogger Signup
 
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=EFrLm307RD8&t=2s)
+
+
 <iframe width="932" height="524" src="https://www.youtube.com/embed/EFrLm307RD8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
