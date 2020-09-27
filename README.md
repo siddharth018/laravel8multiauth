@@ -1,17 +1,19 @@
+# Blogger Signup
 
 <img src="https://raw.githubusercontent.com/siddharth018/laravel8multiauth/master/bloggersignup.png" width="100%">
 
 
-
-<img src="https://raw.githubusercontent.com/siddharth018/laravel8multiauth/master/bloggersignup.png" width="100%">
-
-
+# Blogger Login
 
 <img src="https://raw.githubusercontent.com/siddharth018/laravel8multiauth/master/blogger%20login.png" width="100%">
 
+# Admin Signup
+
 <img src="https://raw.githubusercontent.com/siddharth018/laravel8multiauth/master/admin%20signup.png" width="100%">
 
+# Blogger Dashboard
 
+<img src="https://raw.githubusercontent.com/siddharth018/laravel8multiauth/master/dashboard%20blogger.png" width="100%">
 
 # Laravel Multiple Authentication
 Laravel Multiple Authentication
