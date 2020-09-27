@@ -1,21 +1,20 @@
 
 <img src="https://raw.githubusercontent.com/siddharth018/Laravel-8-CRUD-using-ajax/master/Laravel%20ajax%20crud.png" width="100%">
 
-# laravel 8 Ajax Crud
-Laravel 8 Ajax Crud
+# Laravel Multiple Authentication
+Laravel Multiple Authentication
 
-A simple implementation of laravel 8 Ajax Crud.
-
-To follow along, this application has been documented as an article on siddharth shukla blog. you can checkout here.
+A simple implementation of multiple authentication in Laravel.
 
 Set up
 
 To set up this project, first clone the repositiory
 
-$ git clone https://github.com/siddharth018/Laravel-8-CRUD-using-ajax.git
+$ git clone https://github.com/siddharth018/laravel8multiauth.git
 Change your working directory into the project directory
 
-$ cd Laravel-8-CRUD-using-ajax
+$ cd laravel8multiauth
+
 Then install dependencies using Composer
 
 composer install
@@ -31,6 +30,20 @@ Laravel - The PHP Framework For Web Artisans.
 
 Mysql - A relational database management system.
 
+Remember to visit http://localhost:8000/register/blogger 
+
+http://localhost:8000/register/admin to register bloggers and admins respectively. 
+
+Then visit http://localhost:8000/login/blogger  
+
+http://localhost:8000/login/admin 
+
+log in the bloggers and admins respectively.
+
+Built With
+Laravel - The PHP Framework For Web Artisans.
+
+Mysql - A relational database management system.
 
 ## Youtube
 Join in youtube
