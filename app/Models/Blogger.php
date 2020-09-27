@@ -3,13 +3,13 @@
 namespace App\Models;
 
 use Illuminate\Notifications\Notifiable;
-    use Illuminate\Foundation\Auth\User as Authenticatable;
+use Illuminate\Foundation\Auth\User as Authenticatable;
 
     class Blogger extends Authenticatable
     {
         use Notifiable;
 
-        protected $guard = 'blogger';
+        protected $guard = 'bloggers';
 
         protected $fillable = [
             'name', 'email', 'password',

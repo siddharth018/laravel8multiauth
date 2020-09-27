@@ -47,10 +47,10 @@ return [
             'hash' => false,
         ],
 
-            'user' => [
+        'user' => [
                 'driver' => 'session',
                 'provider' => 'users',
-            ],
+        ],
             
          'admin' => [
             'driver' => 'session',
